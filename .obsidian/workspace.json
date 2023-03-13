@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "7fa0dfa0cb0dd1b2",
+        "id": "2cb0f8229e31e15c",
         "type": "tabs",
         "children": [
           {
-            "id": "e885bfc68fc45542",
+            "id": "d7c16b4c378bec20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Welcome.md",
+                "file": "How do I ... ?.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4c14fdc8477973f5",
+            "id": "aeccaf5f658f7d52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Welcome.md",
+                "file": "Software/PDFExpert.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9abe6d923504167b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Software template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 421.5
   },
   "right": {
     "id": "4110616273361cb6",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Welcome.md",
+                "file": "Templates/Software template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Welcome.md",
+                "file": "Templates/Software template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,12 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Welcome.md"
+                "file": "Templates/Software template.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -151,6 +163,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -159,13 +172,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c14fdc8477973f5",
+  "active": "9abe6d923504167b",
   "lastOpenFiles": [
-    "Did you know?.md",
-    "1. Welcome.md",
-    "Where do I start?/Where do I start?.md",
-    "1. Welcome",
-    "Where do I start?",
-    "Drag and drop in Zotero.md"
+    "Software/PDFExpert.md",
+    "Templates/Software template.md",
+    "Templates",
+    "What should I read if I'm interested in ... ?.md",
+    "Welcome.md",
+    "How do I ... ?.md",
+    "Showcase.md",
+    "Software/Scrivener.md",
+    "Greatest hits/Race and empire.md",
+    "Greatest hits/Southern U.S. history.md",
+    "Greatest hits/Settler colonialism.md",
+    "Software/Tropy.md",
+    "Software/Word.md",
+    "What are my options for ... ?.md",
+    "Software/LibreOffice.md",
+    "Software/Obsidian.md",
+    "Software/Adobe Acrobat.md",
+    "Software/DEVONthink.md",
+    "Software/Calibre.md",
+    "README.md",
+    "Software/Arc.md",
+    "Software/Endnote.md",
+    "Tips and tricks/\"pin\" and tag search results on Hollis to create exportable lists of citations.md",
+    "digital-tools-for-historians/README.md",
+    "digital-tools-for-historians",
+    "Tips and tricks/export multiple citations directly from Hollis using the Zotero webclipper on the Hollis search page.md",
+    "Tips and tricks/export individual citations from Hollis to Zotero using \"Export RIS\".md",
+    "Software/Zotero.md",
+    "Greatest hits",
+    "Welcome",
+    "How to",
+    "Software",
+    "Where do I start?/Choosing a web browser",
+    "Showcase",
+    "1. Where do I start?",
+    "2. How do I...?"
   ]
 }
