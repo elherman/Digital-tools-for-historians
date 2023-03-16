@@ -2,7 +2,7 @@ Introductory paragraph goes here—blah blah blah—include disclaimer that ever
 
 For a basic set of recommendations, go to [[What are my options for ... ?]]
 
-For a list of tips and tricks on using those softwares, go to [[Did you know you can ... ?]]. 
+For a list of tips and tricks on using those softwares, go to [[Did you know you can ... ?]] 
 
 For recommendations on how to solve a specific problem, go to [[How do I ... ?]]
 
